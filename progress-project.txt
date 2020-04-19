@@ -1,0 +1,3 @@
+MEMBUAT OBJEK CANVAS
+-Menambahkan objek persegi
+-Menambahkan objek segitiga
