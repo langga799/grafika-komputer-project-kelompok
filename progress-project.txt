@@ -3,3 +3,4 @@ MEMBUAT OBJEK CANVAS
 -Menambahkan objek segitiga
 -Menambahkan warna pada persegi
 -Menambahkan warna pada segitiga
+-Menambahkan animasi
