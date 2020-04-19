@@ -1,3 +1,5 @@
 MEMBUAT OBJEK CANVAS
 -Menambahkan objek persegi
 -Menambahkan objek segitiga
+-Menambahkan warna pada persegi
+-Menambahkan garis diagonal pada persegi
